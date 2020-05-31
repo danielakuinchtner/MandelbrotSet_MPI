@@ -1,8 +1,8 @@
-arquivoResultados=resultados 
-nomeExecutavel=a.out 
-numeroTestes=5 
-arquivoHosts=hosts 
-parametros='1024 768 18000' 
+arquivoResultados=resultados # arquivo onde os tempos serão armazenados
+nomeExecutavel=a.out 	     # nome do executável
+numeroTestes=5 		        # quantidade de testes a serem realizadas
+arquivoHosts=hosts 	        # nome do arquivo de hosts
+parametros='1024 768 18000'  # parâmetros (linhas, colunas, iterações)
 
 
 

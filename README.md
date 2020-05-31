@@ -26,7 +26,7 @@ To run the code in several machines, use [this script](arquivo.sh):
 chmod +x arquivo.sh
 ./arquivo.sh
 ```
-**Observation**: 
+**Observations**: 
 - Keep the *arquivo.sh* script and the [hosts file](hosts) in the same folder as the executable.
 
 ### Option 2: Run without a script
