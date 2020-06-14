@@ -56,5 +56,5 @@ I used a Intel® Core™ i7-2600 CPU @ 3.40GHz × 8, 4 physical cores and 4 logi
 | 64 | 10,8 | 53,8889 |84,20% | 691,2 |
 
 
-#### This was an assignment for Parallel and Distributed Programming class by Ph.D Marcelo Trindade Rebonatto from University of Passo Fundo.
+#### This was an assignment for Parallel and Distributed Programming class by Ph.D Marcelo Trindade Rebonatto from University of Passo Fundo in 2018-1.
 
